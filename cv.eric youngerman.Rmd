@@ -94,9 +94,7 @@ Student. 1907. "On the Error of Counting with a Haemacytometer." *Biometrika* 5(
 
 ## Other Publications
 
-Student. 1905. "The Pearson Co-efficient of Correlation." Supplement to Report of 1904, Arthur Guinness Son & Company.
-
-Student. 1904. "The Application of the 'Law of Error' to the Work of the Brewery." Report, Arthur Guinness Son & Company.
+Youngerman, Eric. 2035. "On the importance of ANTS!!!!!!" *Nature* 140(6): 1189-1195.
 
 # References
 
