@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.5)  5 SEP 2024 12:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.5)  5 SEP 2024 13:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -680,56 +680,56 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 (/Users/ey239/Library/TinyTeX/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-LaTeX Font Info:    Trying to load font information for TS1+pplj on input line 127.
+LaTeX Font Info:    Trying to load font information for TS1+pplj on input line 128.
 (/Users/ey239/Library/TinyTeX/texmf-dist/tex/latex/psnfss/ts1pplj.fd
 File: ts1pplj.fd 2004/09/06 font definitions for TS1/pplj.
 )
-LaTeX Font Info:    Trying to load font information for U+fontawesometwo on input line 131.
+LaTeX Font Info:    Trying to load font information for U+fontawesometwo on input line 132.
 (/Users/ey239/Library/TinyTeX/texmf-dist/tex/latex/fontawesome/ufontawesometwo.fd
 File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
 )
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 131.
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 132.
 (/Users/ey239/Library/TinyTeX/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-LaTeX Font Info:    Trying to load font information for OT1+pplx on input line 131.
+LaTeX Font Info:    Trying to load font information for OT1+pplx on input line 132.
 (/Users/ey239/Library/TinyTeX/texmf-dist/tex/latex/psnfss/ot1pplx.fd
 File: ot1pplx.fd 2004/09/06 font definitions for OT1/pplx.
 )
-LaTeX Font Info:    Trying to load font information for OML+zplm on input line 131.
+LaTeX Font Info:    Trying to load font information for OML+zplm on input line 132.
 (/Users/ey239/Library/TinyTeX/texmf-dist/tex/latex/psnfss/omlzplm.fd
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
-LaTeX Font Info:    Trying to load font information for OMS+zplm on input line 131.
+LaTeX Font Info:    Trying to load font information for OMS+zplm on input line 132.
 (/Users/ey239/Library/TinyTeX/texmf-dist/tex/latex/psnfss/omszplm.fd
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
-LaTeX Font Info:    Trying to load font information for OMX+zplm on input line 131.
+LaTeX Font Info:    Trying to load font information for OMX+zplm on input line 132.
 (/Users/ey239/Library/TinyTeX/texmf-dist/tex/latex/psnfss/omxzplm.fd
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
-LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 131.
+LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 132.
 (/Users/ey239/Library/TinyTeX/texmf-dist/tex/latex/psnfss/ot1zplm.fd
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 )
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 11.40997pt on input line 131.
+(Font)              scaled to size 11.40997pt on input line 132.
 (/Users/ey239/Library/TinyTeX/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 8.33606pt on input line 131.
+(Font)              scaled to size 8.33606pt on input line 132.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 6.25204pt on input line 131.
+(Font)              scaled to size 6.25204pt on input line 132.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 11.40997pt on input line 131.
+(Font)              scaled to size 11.40997pt on input line 132.
 (/Users/ey239/Library/TinyTeX/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 8.33606pt on input line 131.
+(Font)              scaled to size 8.33606pt on input line 132.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 6.25204pt on input line 131.
+(Font)              scaled to size 6.25204pt on input line 132.
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/pplj/m/sc/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -747,21 +747,21 @@ LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-08-16>
  ***********
 Package rerunfilecheck Info: File `cv.eric-youngerman.out' has not changed.
-(rerunfilecheck)             Checksum: 4026864BF41AD2945F5863110A13AEB0;744.
+(rerunfilecheck)             Checksum: CC3B1476DC88B9FBDFA7766CBF7A2B50;665.
  ) 
 Here is how much of TeX's memory you used:
- 26072 strings out of 475539
- 476543 string characters out of 5776752
- 1938957 words of memory out of 5000000
- 48092 multiletter control sequences out of 15000+600000
- 598595 words of font info for 178 fonts, out of 8000000 for 9000
+ 26076 strings out of 475539
+ 476569 string characters out of 5776752
+ 1937957 words of memory out of 5000000
+ 48090 multiletter control sequences out of 15000+600000
+ 598967 words of font info for 183 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  117i,12n,121p,1030b,500s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </Users/ey239/Library/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1095.600pk></Users/ey239/Library/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></Users/ey239/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></Users/ey239/Library/TinyTeX/texmf-dist/fonts/type1/public/mathpazo/fplmr.pfb></Users/ey239/Library/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></Users/ey239/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></Users/ey239/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></Users/ey239/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on cv.eric-youngerman.pdf (2 pages, 106190 bytes).
+Output written on cv.eric-youngerman.pdf (2 pages, 109862 bytes).
 PDF statistics:
  113 PDF objects out of 1000 (max. 8388607)
- 79 compressed objects within 1 object stream
- 10 named destinations out of 1000 (max. 500000)
- 55365 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 75 compressed objects within 1 object stream
+ 9 named destinations out of 1000 (max. 500000)
+ 55357 words of extra memory for PDF output out of 61914 (max. 10000000)
 

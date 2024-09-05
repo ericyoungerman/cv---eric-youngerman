@@ -3,17 +3,17 @@ output: stevetemplates::cv
 geometry: margin=1in
 
 title: "CV"
-author: William Sealy Gosset
+author: Eric Daniel Youngerman
 
-jobtitle: "Chief Brewer, Arthur Guinness & Son"
-address: "Guinness Brewery · Park Royal · London NW10 7RR, UK"
+jobtitle: "Research Support Specialist, Cornell Sustainable Cropping Systems Lab"
+address: "Cornell University · 515 Bradfield Hall · Ithaca NY, 14850"
 fontawesome: yes
-email: guinness@consumer-care.net
+email: ey239@cornell.edu
 # github: svmiller
 # twitter: stevenvmiller
 #osf: "Enter 5 digit osf string here"
-phone: "+353 1 408 4800"
-web: guinness.com
+phone: "781 759 9629"
+web: blogs.cornell.edu/scslab
 updated: TRUE
 rdateformat: "`r format(Sys.time(), '%d %b %Y')`"
 
@@ -28,28 +28,43 @@ urlcolor: blue
 
 # Employment
 
-*Arthur Guinness & Son*
+*Cornell University, Sustainable Cropping Systems Lab*
 
-Chief Brewer (Park Royal) \hfill 1935-1937
+Research Support Specialist \hfill 2021-present
 
-Researcher (Dublin) \hfill 1899-1935
+*Snowplace Farm*
+
+Farm assistant \hfill 2018-2021
+
+*Harvard University, Museum of Comparative Zoology, Ant Collection*
+
+Collections assistant \hfill 2012
+
+*New Guinea Binatang Research Center, Madang, Papua New Guinea       *
+
+Research assistant \hfill 2011-2012
+
+*Harvard University, Lauder Laboratory*
+
+Research assistant \hfill 2010-2011
+
+*Harvard University, Arnold Arboretum*
+
+Curatorial assistant \hfill 2007-2009
 
 # Education
+*Cornell University*, PhD \hfill Expected 2030
 
-*New College, Oxford University*, B.A. Chemistry \hfill 1899
+*Harvard University Extension School*, ALB \hfill 
 
 
 # Publications
 
-## Books
-
-Pearson, E.S. and John Wishart (eds.). 1943. *"Student's" Collected Papers* London: Biometrika Office.
-
 ## Journal Articles
 
-Student. 1938. "Comparison between Balanced and Random Arrangements on Field Plots." *Biometrika* 29(3-4): 363--378.
+Malé, P. J. G., *Youngerman, E.*, Pierce, N. E., & Frederickson, M. E.  2020. "Mating system, population	genetics, and phylogeography of the devil’s garden ant, Myrmelachista schumanni, in the	Peruvian Amazon." *Insectes Sociaux* 67(1), 113-125.
 
-Student. 1936. "Co-operation in Large Scale Experiments." *Supplement to Journal of the Royal Statistical Society* 3(2): 115--136.
+Janda, M., Matos-Maraví, P., Borovanska, M., Zima, J., *Youngerman, E.*, & Pierce, N. E.  2016. "Phylogeny and population genetic structure of the ant genus Acropyga (Hymenoptera:	Formicidae) in Papua New Guinea. " *Invertebrate Systematics* 30(1), 28-40.
 
 Student. 1931. "On the *z* Test." *Biometrika* 23(3-4): 407-408.
 
