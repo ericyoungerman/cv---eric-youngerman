@@ -5,7 +5,7 @@ geometry: margin=1in
 title: "CV"
 author: Eric Daniel Youngerman
 
-jobtitle: "Research Support Specialist, Cornell Sustainable Cropping Systems Lab"
+jobtitle: "Research Support Specialist, Sustainable Cropping Systems Lab"
 address: "Cornell University · 515 Bradfield Hall · Ithaca NY, 14850"
 fontawesome: yes
 email: ey239@cornell.edu
@@ -30,11 +30,19 @@ urlcolor: blue
 
 *Cornell University, Sustainable Cropping Systems Lab*
 
-Research Support Specialist \hfill 2021-present
+Research support specialist \hfill 2021-present
 
 *Snowplace Farm*
 
 Farm assistant \hfill 2018-2021
+
+*University of Utah, Longino Lab*
+
+Graduate research assistant \hfill 2014-2015
+
+*University of Toronto, Frederickson Lab*
+
+Graduate research assistant \hfill 2012-2014
 
 *Harvard University, Museum of Comparative Zoology, Ant Collection*
 
@@ -62,35 +70,15 @@ Curatorial assistant \hfill 2007-2009
 
 ## Journal Articles
 
-Malé, P. J. G., *Youngerman, E.*, Pierce, N. E., & Frederickson, M. E.  2020. "Mating system, population	genetics, and phylogeography of the devil’s garden ant, Myrmelachista schumanni, in the	Peruvian Amazon." *Insectes Sociaux* 67(1), 113-125.
+Malé, P. J. G., **Youngerman, E.**, Pierce, N. E., & Frederickson, M. E.  2020. "Mating system, population	genetics, and phylogeography of the devil’s garden ant, Myrmelachista schumanni, in the	Peruvian Amazon." *Insectes Sociaux* 67(1), 113-125.
 
-Janda, M., Matos-Maraví, P., Borovanska, M., Zima, J., *Youngerman, E.*, & Pierce, N. E.  2016. "Phylogeny and population genetic structure of the ant genus Acropyga (Hymenoptera:	Formicidae) in Papua New Guinea. " *Invertebrate Systematics* 30(1), 28-40.
+Janda, M., Matos-Maraví, P., Borovanska, M., Zima, J., **Youngerman, E.**, & Pierce, N. E.  2016. "Phylogeny and population genetic structure of the ant genus Acropyga (Hymenoptera:	Formicidae) in Papua New Guinea. " *Invertebrate Systematics* 30(1), 28-40.
 
-Student. 1931. "On the *z* Test." *Biometrika* 23(3-4): 407-408.
+Cembrowski, A. R., Reurink, G., Arcila Hernandez, L. M., Sanders, J. G., **Youngerman, E.**, & Frederickson, M. E. 2015. "Sporadic pollen consumption among tropical ants." *Insectes sociaux* 62, 379-382.
 
-Student. 1931. "The Lanarkshire Milk Experiment." *Biometrika* 23(3-4): 398--406.
+Youngerman, E. D., Flammang, B. E., & Lauder, G. V. 2014. "Locomotion of free-swimming ghost knifefish: anal fin kinematics during four behaviors." *Zoology* 117(5), 337-348
 
-Student. 1929. "Statistics in Biological Research." *Nature* 124: 93
 
-Student. 1927. "Errors of Routine Analysis." *Biometrika* 19(1-2): 151--164.
-
-Student. 1926. "Mathematics and Agronomy." *Journal of the American Society of Agronomy* 18.
-
-Student. 1925. "New Tables for Testing the Significance of Observations." *Metron* 5(3): 105--108.
-
-Student. 1923. "On Testing Varieties of Cereals." *Biometrika* 15(3-4): 271--293.
-
-Student. 1921. "An Experimental Determination of the Probable Error of Dr. Spearman's Correlation Co-efficient" *Biometrika* 13(2-3): 263--282.
-
-Student. 1917. "Tables for Estimating the Probability That the Given Mean of a Unique Sample of Observations Lies between $-\infty$ and Any Given Distance of the Mean of the Population from Which the Sample Is Drawn." *Biometrika* 11(4): 414--417.
-
-Student. 1909. "The Distribution of the Means of Samples Which Are Not Drawn at Random." *Biometrika* 7(1-2): 210--214.
-
-Student. 1908. "Probable Error of a Correlation Coefficient." *Biometrika* 6(2-3): 302--310.
-
-Student. 1908. "The Probable Error of a Mean." *Biometrika* 6(1): 1--25.
-
-Student. 1907. "On the Error of Counting with a Haemacytometer." *Biometrika* 5(3): 351--360.
 
 ## Other Publications
 
